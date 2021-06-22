@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Root-->
+<contenedor_producto>
+    <producto>
+        <categoria>
+            <codigo>I-4578</codigo>
+            <nombre>Infantiles</nombre>
+            <descripcion>Lorem ipsum, dolor sit amet consectetur 
+            adipisicing elit. Nostrum repellendus aperiam omnis 
+            exercitationem dignissimos</descripcion>
+        </categoria>
+    </producto>
+    <producto>
+        <categoria>
+            <codigo>D-4585</codigo>
+            <nombre>Damas</nombre>
+           <!-- <imagen></imagen>-->
+            <descripcion>Lorem ipsum, dolor sit amet consectetur 
+            adipisicing elit. Nostrum repellendus aperiam omnis 
+            exercitationem dignissimos</descripcion>
+        </categoria>
+    </producto>
+    <producto>
+        <categoria>
+            <codigo>C-4596</codigo>
+            <nombre>Caballeros</nombre>
+           <!-- <imagen></imagen>-->
+            <descripcion>Lorem ipsum, dolor sit amet consectetur 
+            adipisicing elit. Nostrum repellendus aperiam omnis 
+            exercitationem dignissimos</descripcion>
+        </categoria>
+    </producto>
+    <producto> X-8675
+        <categoria>
+            <codigo>H-8576</codigo>
+            <nombre>Hogar</nombre>
+           <!-- <imagen></imagen>-->
+            <descripcion>Lorem ipsum, dolor sit amet consectetur 
+            adipisicing elit. Nostrum repellendus aperiam omnis 
+            exercitationem dignissimos</descripcion>
+        </categoria>
+    </producto>
+    <producto> 
+        <categoria>
+            <codigo>X-8675</codigo>
+            <nombre>Deportes</nombre>
+           <!-- <imagen></imagen>-->
+            <descripcion>Lorem ipsum, dolor sit amet consectetur 
+            adipisicing elit. Nostrum repellendus aperiam omnis 
+            exercitationem dignissimos</descripcion>
+        </categoria>
+    </producto>
+    
+
+
+</contenedor_producto>

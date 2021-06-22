@@ -1,0 +1,74 @@
+{
+    "detalles": [
+        {
+            "categoria": "Infantiles",
+            "producto": "Moda",
+            "disponible": "SI",
+            "temporada": "Verano",
+            "descripcion": "Producto disponible solamente esta Temporada"
+        },
+        {
+            "categoria": "Infantiles",
+            "producto": "Juguetes",
+            "disponible": "SI",
+            "temporada": "Navidad",
+            "descripcion": "Producto disponible durante la temporada Navideña"
+        },
+        {
+            "categoria": "Damas",
+            "producto": "Moda",
+            "disponible": "SI",
+            "temporada": "Verano",
+            "descripcion": "Producto disponible durante esta Temporada"
+        },
+        {
+            "categoria": "Damas",
+            "producto": "Maquillaje",
+            "disponible": "SI",
+            "temporada": "Verano",
+            "descripcion": "Producto disponible durante esta Temporada"
+        },
+        {
+            "categoria": "Caballeros",
+            "producto": "Moda",
+            "disponible": "SI",
+            "temporada": "Todas",
+            "descripcion": "Producto disponible todo el Año"
+        },
+        {
+            "categoria": "Caballeros",
+            "producto": "Tecnología",
+            "disponible": "SI",
+            "temporada": "Todas",
+            "descripcion": "Producto disponible todo el Año"
+        },
+        {
+            "categoria": "Hogar",
+            "producto": "Línea Blanca",
+            "disponible": "SI",
+            "temporada": "Todas",
+            "descripcion": "Producto disponible todo el Año"
+        },
+        {
+            "categoria": "Hogar",
+            "producto": "Muebles",
+            "disponible": "SI",
+            "temporada": "Todas",
+            "descripcion": "Producto disponible todo el Año"
+        },
+        {
+            "categoria": "Deportes",
+            "producto": "Accesorios",
+            "disponible": "SI",
+            "temporada": "Todas",
+            "descripcion": "Producto disponible todo el Año"
+        },
+        {
+            "categoria": "Deportes",
+            "producto": "Máquinas",
+            "disponible": "SI",
+            "temporada": "Todas",
+            "descripcion": "Producto disponible todo el Año"
+        }
+    ]
+}

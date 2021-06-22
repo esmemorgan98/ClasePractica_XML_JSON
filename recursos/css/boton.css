@@ -1,0 +1,43 @@
+@media only screen and (max-width: 760px){
+body {
+   background: rgb(199, 157, 238);
+}
+
+/* Coloco miMenu Verticalmente*/
+header {
+    height: 100%;
+}
+
+#miMenu ul {
+   flex-direction: column;
+   width: 70%;
+}
+
+.btn-Toggle {
+   display: block;
+}
+ 
+}
+
+/* media queries para pantallas pequeñas*/
+@media all and (max-width: 600px){
+body {
+   background: rgb(173, 134, 209);
+}
+
+
+/* Coloco miMenu Verticalmente*/
+header {
+  flex-direction: column;
+  height: 100%;
+}
+
+#miMenu ul {
+  flex-direction: column;
+  width: 70%;
+}
+
+
+
+
+    
